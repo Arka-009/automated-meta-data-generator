@@ -61,7 +61,7 @@ streamlit run app.py
 ```
 
 ## 📹 Demo Video
-Include a short demo of the app in action (see below for script).
+Include a short demo of the app in action 
 
 ## 🤝 Contribution
 Pull requests are welcome. For major changes, please open an issue first.
