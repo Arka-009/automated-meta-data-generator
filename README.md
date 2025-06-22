@@ -66,5 +66,4 @@ Include a short demo of the app in action (see below for script).
 ## 🤝 Contribution
 Pull requests are welcome. For major changes, please open an issue first.
 
-## 📄 License
-[MIT](https://choosealicense.com/licenses/mit/)
+
