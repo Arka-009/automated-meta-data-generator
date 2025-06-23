@@ -1,7 +1,9 @@
 streamlit
-PyMuPDF
+pymupdf
 python-docx
 pytesseract
-textract
-keybert
 spacy
+keybert
+sentence-transformers
+transformers
+torch
