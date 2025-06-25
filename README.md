@@ -61,8 +61,11 @@ streamlit run app.py
 ```
 
 ## 📹 Demo Video
-Include a short demo of the app in action 
-
+Include a short demo of the app in action.
+The files used in the video are 
+"23115022 Arkaprava Biswas Declaration form.pdf" is used to demonstrate metadata generation for pdf files.
+"requirements.txt" is used as a text file to demonstrate metadata generation for pdf files.
+"23115022 Arkaprava Biswas Declaration form.docx"  is used as a word file to demonstrate metadata generation for word files.
 ## 🤝 Contribution
 Pull requests are welcome. For major changes, please open an issue first.
 
